@@ -2,9 +2,7 @@
 # Product Name
 > Short blurb about what your product does.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+[![SaiLikhith](https://img.shields.io/badge/Sai%20Likhith-Repository-brightgreen)](https://github.com/SaiLikhith7/)
 
 One to two paragraph statement about your product and what it does.
 
