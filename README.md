@@ -1,6 +1,6 @@
 # webpages.github.io
-# Product Name
-> Short blurb about what your product does.
+# Repositiory Name
+> Short blurb about what your repository does.
 
 [![SaiLikhith](https://img.shields.io/badge/Sai%20Likhith-Repository-brightgreen)](https://github.com/SaiLikhith7/)
 
