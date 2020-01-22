@@ -40,7 +40,7 @@ npm test
 
 ## Meta
 
-Sai Likhith K – [@SaiLikhith96](https://twitter.com/sailikhith96) – likki1996@gmail.com
+Sai Likhith K – [@Likhith96](https://twitter.com/likhith96) – likki1996@gmail.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
